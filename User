@@ -1,12 +1,10 @@
 {
   "data": [
     {
-      "user": "e8dc4081b13434b45189a720b77b6818",
-      "pkg": "com.ayan.box"
+      "user": "e8dc4081b13434b45189a720b77b6818"
     },
     {
-      "user": "098f6bcd4621d373cade4e832627b4f6",
-      "pkg": "com.example.app2"
+      "user": "098f6bcd4621d373cade4e832627b4f6"
     }
   ]
 }
